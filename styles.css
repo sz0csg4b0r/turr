@@ -1,0 +1,31 @@
+#header {
+  background-color: black;
+  color: white;
+  height: 100px;
+
+  border-width: 5pt;
+  border-color: goldenrod;
+  border-style: inset;
+}
+
+#body2 {
+  background-color: rgb(144, 107, 38);
+  width: 100%; /* Teljes szélesség */
+  height: 92vh; /* Teljes magasság (viewport height) */
+}
+
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  background-color: rgb(144, 107, 38);
+  color: white;
+  padding: 1cm;
+}
+
+.flex-list {
+  display: flex; /* Flexbox aktiválása */
+  list-style: none; /* Lista pontok eltávolítása */
+  padding: 5px;
+  margin: 3px;
+  gap: 10px; /* Térköz az elemek között */
+}

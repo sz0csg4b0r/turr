@@ -1,0 +1,54 @@
+00. Építsd fel a megfelelő projekt struktúrát a könyvtár neve legyen Türr ékezet nélkül kisbetűvel. Legyenek benne a szokásos könyvtárak
+	(images, docs) és hozz létre egy index.html-t
+
+01. Oldal nyelve: magyar
+
+02. Oldal címe: Bajai SZC Türr István Technikum
+
+03. Formázzuk meg a body tag-et, ugyanúgy ahogy eddig a p tag-et formáztuk a style attributummal
+	háttérszín : cornflowerblue
+	betűméret: 12pt
+	betű család: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+	margin: 5px
+	
+04. Tegyünk egy p tag-et, abba egy képet. Forrása a megfelelő helyen legyen elhelyezve. Fájlnév: 9a.jfif
+	A kép kapjon stílus formázást: legyen fehér a keretének a színe, a keret szélessége 10px, a keret stílusa inset,
+	és kerekítsük le 10%-kal a kép sarkait.
+
+05. Készítsünk egy 1-es típusú címsort: Információs weboldal tartalommal
+
+06. Készítsünk egy 2-es típusú címsort: Nyílt nap 2024. 11. 14. Csütörtök tartalommal
+
+07. Készítsünk egy 2-es típusú címsort: Ágazatok-Szakok tartalommal
+	Ezen belül legyen egy nem sorszámozott lista amely két szintű lesz, stílusában kerüljön beállításra a list-style-type:square 
+	Első szinten Informatika és távközlés, Közlekedés és szállítmányozás, Oktatás, Gazdálkodás és menedzsment
+	Második szinten a megfelelő ágazathoz Szoftverfejlesztő és tesztelő, Informatikai rendszer- és alkalmazás-üzemeltető,
+	Második szinten a megfelelő ágazathoz Logisztikai technikus
+	Második szinten a megfelelő ágazathoz Óvodai nevelő és Oktatási asszisztens
+	Második szinten a megfelelő ágazathoz Pénzügyi-számviteli ügyintéző és Vállalkozási ügyviteli ügyintéző
+
+08. Készíts egy linket amely a domainen belül az info.html oldalra mutat. Link szövege Információk a jelentkezési lap kitöltéséhez legyen 
+	Ezzel párhuzamosan hozz létre az index.html mellé egy info.html oldalt.
+
+09. Készítsünk egy 2-es típusú címsort: Informatikai tantárgyak, és egy 9ACSOP2 tartalmú linkkel. A link a nevsor.html-re mutat.
+	Ezzel párhuzamosan hozz létre az index.html mellé egy nevsor.html oldalt.
+	
+10. A 2-es címsor alá pedig egy új számozatlan listát melynek listaelemei a következők:
+      Digitális kultúra
+      Adatbázis kezelés I.-II.
+      Backend fejlesztés
+      Frontend fejlesztés
+      Programozási alapismeretek
+      Hálózatok I.-II.
+      Webfejlesztés I.-II.
+      Asztali alkalmazásfejlesztés I.-II.
+      Felhőalapú technológia
+
+11. A info.html oldalra építs fel egy teljes html5 struktúrát, végezd el a szükséges beállításokat. 
+	Cím legyen Információk, a nyelv magyar
+
+12. Az info.html oldal body-jába tegyél egy képet, info.png. Alternatív szöveg legyen az Információk a jelentkezési lap kitöltéséhez
+
+13. A nevsor.html oldal body-jába készíts egy táblázatot amelyben felsorolt a csoport diákjainak a nevét. A táblázatnak annyi sora
+	ahány diák + 1 fejléc, két oszlopa van az Azonosító és a Diák Név.    
+   
